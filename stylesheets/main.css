@@ -1,0 +1,21 @@
+#denverArtMuseum {
+	float: left;
+	height: 200px;
+	width: 50%;
+
+}
+
+h1 {
+	color: white;
+	background-color: red;
+	height: 50px;
+	text-align: left;
+	font-family: arial;
+	/* font-weight: 400; */
+	font-size: 15pt;
+}
+
+.parent {
+	/* display: inline-block; */
+	margin: 20pt;
+}
